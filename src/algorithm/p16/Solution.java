@@ -34,5 +34,7 @@ public class Solution {
         int[] nums = new int[]{1,1,1,0};
         int target = -100;
         System.out.println(new Solution().threeSumClosest(nums, target));
+
+
     }
 }
