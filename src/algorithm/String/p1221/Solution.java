@@ -1,4 +1,4 @@
-package com.leetcode.String.p1221;
+package algorithm.String.p1221;
 
 public class Solution {
     public int balancedStringSplit(String s) {

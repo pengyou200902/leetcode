@@ -1,4 +1,4 @@
-package com.leetcode.Sort.p350;
+package algorithm.Sort.p350;
 
 import java.util.Arrays;
 import java.util.HashMap;

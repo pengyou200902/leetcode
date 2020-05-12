@@ -1,4 +1,4 @@
-package com.leetcode.String.p1108;
+package algorithm.String.p1108;
 
 public class Solution {
     public String defangIPaddr(String address) {

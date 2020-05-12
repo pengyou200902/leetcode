@@ -1,4 +1,4 @@
-package com.leetcode.String.p1436;
+package algorithm.String.p1436;
 
 import java.util.HashMap;
 import java.util.List;
