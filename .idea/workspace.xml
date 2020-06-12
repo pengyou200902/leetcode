@@ -25,10 +25,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e98535ef-f8de-4534-bb71-5e28c21206b1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/algorithm/String/p67/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e98535ef-f8de-4534-bb71-5e28c21206b1" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -95,7 +92,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.19378428" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -217,7 +214,7 @@
       <workItem from="1591885496454" duration="2037000" />
       <workItem from="1591942587550" duration="8511000" />
       <workItem from="1591955549445" duration="296000" />
-      <workItem from="1591955855803" duration="8988000" />
+      <workItem from="1591955855803" duration="9701000" />
     </task>
     <task id="LOCAL-00001" summary="create git &amp; upload code">
       <created>1565676835056</created>
@@ -457,7 +454,21 @@
       <option name="project" value="LOCAL" />
       <updated>1591970065411</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="add #67 add-binary">
+      <created>1591975233032</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1591975233032</updated>
+    </task>
+    <task id="LOCAL-00036" summary="auto update">
+      <created>1591975249619</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1591975249619</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -488,8 +499,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add an &quot;UnCategorized&quot; directory" />
-    <MESSAGE value="add queue-reconstruction-by-height" />
     <MESSAGE value="add coin-exchange-2" />
     <MESSAGE value="change dir name from p7 to p6" />
     <MESSAGE value="add 2020 June Week2 p1" />
@@ -513,7 +522,9 @@
     <MESSAGE value="add #35 to BinarySearch tag" />
     <MESSAGE value="add #278 to BinarySearch tag" />
     <MESSAGE value="add some configs" />
-    <option name="LAST_COMMIT_MESSAGE" value="add some configs" />
+    <MESSAGE value="add #67 add-binary" />
+    <MESSAGE value="auto update" />
+    <option name="LAST_COMMIT_MESSAGE" value="auto update" />
   </component>
   <component name="WindowStateProjectService">
     <state x="676" y="349" width="751" height="341" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1590326462245">
@@ -524,10 +535,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591187243150" />
-    <state x="548" y="122" key="CommitChangelistDialog2" timestamp="1591970064604">
+    <state x="548" y="122" key="CommitChangelistDialog2" timestamp="1591975248972">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="548" y="122" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1591970064604" />
+    <state x="548" y="122" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1591975248972" />
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1591969559682">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -556,14 +567,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="760" y="221" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591713272884" />
-    <state x="280" y="153" key="SettingsEditor" timestamp="1591969607527">
+    <state x="280" y="153" key="SettingsEditor" timestamp="1591977150845">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="280" y="153" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1591969607527" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1591888560561">
+    <state x="280" y="153" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1591977150845" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1591977136119">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1591888560561" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1591977136119" />
     <state x="823" y="364" key="cloudConfig.SelfSettingsDialog" timestamp="1591631049812">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
