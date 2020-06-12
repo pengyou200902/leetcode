@@ -25,13 +25,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e98535ef-f8de-4534-bb71-5e28c21206b1" name="Default Changelist" comment="add #380.Insert Delete GetRandom O(1)">
-      <change afterPath="$PROJECT_DIR$/.idea/checkstyleidea-libs/readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/Array/p35/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/BinarySearch/p278/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/BinarySearch/p35/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="e98535ef-f8de-4534-bb71-5e28c21206b1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/algorithm/String/p67/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -221,7 +217,7 @@
       <workItem from="1591885496454" duration="2037000" />
       <workItem from="1591942587550" duration="8511000" />
       <workItem from="1591955549445" duration="296000" />
-      <workItem from="1591955855803" duration="6920000" />
+      <workItem from="1591955855803" duration="8988000" />
     </task>
     <task id="LOCAL-00001" summary="create git &amp; upload code">
       <created>1565676835056</created>
@@ -433,7 +429,35 @@
       <option name="project" value="LOCAL" />
       <updated>1591969904065</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="add #35 to Array tag">
+      <created>1591969931703</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1591969931703</updated>
+    </task>
+    <task id="LOCAL-00032" summary="add #35 to BinarySearch tag">
+      <created>1591969949215</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1591969949215</updated>
+    </task>
+    <task id="LOCAL-00033" summary="add #278 to BinarySearch tag">
+      <created>1591969959439</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1591969959439</updated>
+    </task>
+    <task id="LOCAL-00034" summary="add some configs">
+      <created>1591970065411</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1591970065411</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -464,10 +488,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add two city schedule" />
-    <MESSAGE value="add two-city-scheduling&#10;&#10;Signed-off-by: 彭友 &lt;pengyou200902@163.com&gt;" />
-    <MESSAGE value="add Delete-Node-in-a-Linked-List &amp; Reverse-String" />
-    <MESSAGE value="add Random-Pick-with-Weight" />
     <MESSAGE value="add an &quot;UnCategorized&quot; directory" />
     <MESSAGE value="add queue-reconstruction-by-height" />
     <MESSAGE value="add coin-exchange-2" />
@@ -489,7 +509,11 @@
     <MESSAGE value="add #380 insert-delete-getrandom-o1" />
     <MESSAGE value="add #381 insert-delete-getrandom-o1-duplicates-allowed" />
     <MESSAGE value="add #75 to Array tag" />
-    <option name="LAST_COMMIT_MESSAGE" value="add #75 to Array tag" />
+    <MESSAGE value="add #35 to Array tag" />
+    <MESSAGE value="add #35 to BinarySearch tag" />
+    <MESSAGE value="add #278 to BinarySearch tag" />
+    <MESSAGE value="add some configs" />
+    <option name="LAST_COMMIT_MESSAGE" value="add some configs" />
   </component>
   <component name="WindowStateProjectService">
     <state x="676" y="349" width="751" height="341" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1590326462245">
@@ -500,10 +524,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591187243150" />
-    <state x="668" y="130" key="CommitChangelistDialog2" timestamp="1591969903045">
+    <state x="548" y="122" key="CommitChangelistDialog2" timestamp="1591970064604">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="668" y="130" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1591969903045" />
+    <state x="548" y="122" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1591970064604" />
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1591969559682">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
