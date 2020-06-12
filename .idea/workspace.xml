@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e98535ef-f8de-4534-bb71-5e28c21206b1" name="Default Changelist" comment="add #380.Insert Delete GetRandom O(1)">
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyleidea-libs/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/Array/p35/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/BinarySearch/p278/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/BinarySearch/p35/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/pengyou200902/leetcode.git" />
+      </set>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/algorithm/UnCategorized/p15/Solution2.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1PMEQnOqGpw9zCEUSYYvgqQqehM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Chatopera/chatopera-sample-java" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.19378428" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="algorithm.BinarySearch.p35" />
+      <recent name="algorithm.Array.p75" />
+      <recent name="algorithm.Array.p1470.p75" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.RandomizedSet">
+    <configuration name="RandomizedSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.Design.p380.RandomizedSet" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorithm.Design.p380.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RefundSolution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.June2020.Week1.p3.RefundSolution" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorithm.June2020.Week1.p3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.June2020.Week1.p4.Solution" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorithm.June2020.Week1.p4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.June2020.Week2.p1.Solution" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorithm.June2020.Week2.p1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.BitManipulation.p1342.Solution" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorithm.BitManipulation.p1342.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RandomizedSet" />
+        <item itemvalue="Application.Solution (3)" />
+        <item itemvalue="Application.Solution (2)" />
+        <item itemvalue="Application.Solution (1)" />
+        <item itemvalue="Application.RefundSolution" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Friend\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e98535ef-f8de-4534-bb71-5e28c21206b1" name="Default Changelist" comment="" />
+      <created>1564669297295</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564669297295</updated>
+      <workItem from="1564669298468" duration="9805000" />
+      <workItem from="1565098925319" duration="8675000" />
+      <workItem from="1565532909549" duration="14987000" />
+      <workItem from="1565607512074" duration="13351000" />
+      <workItem from="1565675555883" duration="357000" />
+      <workItem from="1565675923977" duration="2945000" />
+      <workItem from="1565679420622" duration="8000" />
+      <workItem from="1566827949323" duration="1037000" />
+      <workItem from="1568260203739" duration="195000" />
+      <workItem from="1574064158565" duration="62000" />
+      <workItem from="1588992523268" duration="84000" />
+      <workItem from="1590323653854" duration="6312000" />
+      <workItem from="1590585042737" duration="863000" />
+      <workItem from="1591186706503" duration="273000" />
+      <workItem from="1591186984216" duration="3268000" />
+      <workItem from="1591279855197" duration="3823000" />
+      <workItem from="1591360109553" duration="3397000" />
+      <workItem from="1591455497305" duration="2261000" />
+      <workItem from="1591537585004" duration="1214000" />
+      <workItem from="1591584766213" duration="26000" />
+      <workItem from="1591626343124" duration="3856000" />
+      <workItem from="1591687530146" duration="10757000" />
+      <workItem from="1591713465355" duration="419000" />
+      <workItem from="1591779238154" duration="11915000" />
+      <workItem from="1591885496454" duration="2037000" />
+      <workItem from="1591942587550" duration="8511000" />
+      <workItem from="1591955549445" duration="296000" />
+      <workItem from="1591955855803" duration="6920000" />
+    </task>
+    <task id="LOCAL-00001" summary="create git &amp; upload code">
+      <created>1565676835056</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1565676835056</updated>
+    </task>
+    <task id="LOCAL-00002" summary="create git &amp; upload code">
+      <created>1565679018520</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1565679018520</updated>
+    </task>
+    <task id="LOCAL-00003" summary="commit idea dir">
+      <created>1566828287268</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1566828287268</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add p1370">
+      <created>1590334590598</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1590334590598</updated>
+    </task>
+    <task id="LOCAL-00005" summary="change gitignore">
+      <created>1591187196339</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1591187196339</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add two city schedule">
+      <created>1591281990364</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1591281990364</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add Delete-Node-in-a-Linked-List &amp; Reverse-String">
+      <created>1591283832880</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1591283832880</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add Random-Pick-with-Weight">
+      <created>1591368732601</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1591368732601</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add an &quot;UnCategorized&quot; directory">
+      <created>1591368771379</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1591368771379</updated>
+    </task>
+    <task id="LOCAL-00010" summary="add queue-reconstruction-by-height">
+      <created>1591457743936</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1591457743936</updated>
+    </task>
+    <task id="LOCAL-00011" summary="add coin-exchange-2">
+      <created>1591542490359</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1591542490359</updated>
+    </task>
+    <task id="LOCAL-00012" summary="change dir name from p7 to p6">
+      <created>1591542520468</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1591542520468</updated>
+    </task>
+    <task id="LOCAL-00013" summary="add 2020 June Week2 p1">
+      <created>1591630456216</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1591630456216</updated>
+    </task>
+    <task id="LOCAL-00014" summary="add p1470">
+      <created>1591630468786</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1591630468786</updated>
+    </task>
+    <task id="LOCAL-00015" summary="add p1342">
+      <created>1591631023556</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1591631023556</updated>
+    </task>
+    <task id="LOCAL-00016" summary="add 3 exercises of LinkedList">
+      <created>1591708775189</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1591708775189</updated>
+    </task>
+    <task id="LOCAL-00017" summary="add 1 June Challenge">
+      <created>1591708792288</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1591708792288</updated>
+    </task>
+    <task id="LOCAL-00018" summary="add p21">
+      <created>1591713213446</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1591713213446</updated>
+    </task>
+    <task id="LOCAL-00019" summary="add June Challenge 2020">
+      <created>1591803437761</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1591803437761</updated>
+    </task>
+    <task id="LOCAL-00020" summary="add #82 remove-duplicates-from-sorted-list-ii">
+      <created>1591803469491</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1591803469491</updated>
+    </task>
+    <task id="LOCAL-00021" summary="add #83 remove-duplicates-from-sorted-list">
+      <created>1591803484573</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1591803484573</updated>
+    </task>
+    <task id="LOCAL-00022" summary="add #141 linked-list-cycle">
+      <created>1591803508752</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1591803508752</updated>
+    </task>
+    <task id="LOCAL-00023" summary="add #160 intersection-of-two-linked-lists">
+      <created>1591803522851</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1591803522851</updated>
+    </task>
+    <task id="LOCAL-00024" summary="add checkstyle-idea plugin">
+      <created>1591803578744</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1591803578744</updated>
+    </task>
+    <task id="LOCAL-00025" summary="add checkstyle-idea plugin">
+      <created>1591803584417</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1591803584417</updated>
+    </task>
+    <task id="LOCAL-00026" summary="add #75 sort-colors">
+      <created>1591888552516</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1591888552516</updated>
+    </task>
+    <task id="LOCAL-00027" summary="add VersionControl.java">
+      <created>1591969699450</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1591969699450</updated>
+    </task>
+    <task id="LOCAL-00028" summary="add #380 insert-delete-getrandom-o1">
+      <created>1591969815047</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1591969815047</updated>
+    </task>
+    <task id="LOCAL-00029" summary="add #381 insert-delete-getrandom-o1-duplicates-allowed">
+      <created>1591969835574</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1591969835574</updated>
+    </task>
+    <task id="LOCAL-00030" summary="add #75 to Array tag">
+      <created>1591969904065</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1591969904065</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add two city schedule" />
+    <MESSAGE value="add two-city-scheduling&#10;&#10;Signed-off-by: 彭友 &lt;pengyou200902@163.com&gt;" />
+    <MESSAGE value="add Delete-Node-in-a-Linked-List &amp; Reverse-String" />
+    <MESSAGE value="add Random-Pick-with-Weight" />
+    <MESSAGE value="add an &quot;UnCategorized&quot; directory" />
+    <MESSAGE value="add queue-reconstruction-by-height" />
+    <MESSAGE value="add coin-exchange-2" />
+    <MESSAGE value="change dir name from p7 to p6" />
+    <MESSAGE value="add 2020 June Week2 p1" />
+    <MESSAGE value="add p1470" />
+    <MESSAGE value="add p1342" />
+    <MESSAGE value="add 3 exercises of LinkedList" />
+    <MESSAGE value="add 1 June Challenge" />
+    <MESSAGE value="add p21" />
+    <MESSAGE value="add June Challenge 2020" />
+    <MESSAGE value="add #82 remove-duplicates-from-sorted-list-ii" />
+    <MESSAGE value="add #83 remove-duplicates-from-sorted-list" />
+    <MESSAGE value="add #141 linked-list-cycle" />
+    <MESSAGE value="add #160 intersection-of-two-linked-lists" />
+    <MESSAGE value="add checkstyle-idea plugin" />
+    <MESSAGE value="add #75 sort-colors" />
+    <MESSAGE value="add VersionControl.java" />
+    <MESSAGE value="add #380 insert-delete-getrandom-o1" />
+    <MESSAGE value="add #381 insert-delete-getrandom-o1-duplicates-allowed" />
+    <MESSAGE value="add #75 to Array tag" />
+    <option name="LAST_COMMIT_MESSAGE" value="add #75 to Array tag" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="676" y="349" width="751" height="341" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1590326462245">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="676" y="349" width="751" height="341" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590326462245" />
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1591187243150">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591187243150" />
+    <state x="668" y="130" key="CommitChangelistDialog2" timestamp="1591969903045">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="130" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1591969903045" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1591969559682">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1591969559682" />
+    <state x="748" y="433" key="GitRewordDialog" timestamp="1591282039774">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="748" y="433" key="GitRewordDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591282039774" />
+    <state width="1860" height="274" key="GridCell.Tab.0.bottom" timestamp="1591947041595">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="274" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591947041595" />
+    <state width="1860" height="274" key="GridCell.Tab.0.center" timestamp="1591947041595">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="274" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591947041595" />
+    <state width="1860" height="274" key="GridCell.Tab.0.left" timestamp="1591947041595">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="274" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591947041595" />
+    <state width="1860" height="274" key="GridCell.Tab.0.right" timestamp="1591947041595">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="274" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591947041595" />
+    <state x="760" y="221" key="RollbackChangesDialog" timestamp="1591713272884">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="760" y="221" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591713272884" />
+    <state x="280" y="153" key="SettingsEditor" timestamp="1591969607527">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="280" y="153" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1591969607527" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1591888560561">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1591888560561" />
+    <state x="823" y="364" key="cloudConfig.SelfSettingsDialog" timestamp="1591631049812">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="823" y="364" key="cloudConfig.SelfSettingsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591631049812" />
+    <state x="753" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591187202898">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="753" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1591187202898" />
+    <state x="690" y="268" key="extract.method.dialog" timestamp="1591456469917">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="268" key="extract.method.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591456469917" />
+    <state x="649" y="307" key="git4idea.merge.GitPullDialog" timestamp="1590323852357">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="649" y="307" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590323852357" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1591967531896">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1591967531896" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>nums</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+</project>
