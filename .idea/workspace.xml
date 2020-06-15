@@ -25,7 +25,10 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e98535ef-f8de-4534-bb71-5e28c21206b1" name="Default Changelist" comment="" />
+    <list default="true" id="e98535ef-f8de-4534-bb71-5e28c21206b1" name="Default Changelist" comment="add #700">
+      <change afterPath="$PROJECT_DIR$/src/algorithm/String/p1003/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -96,31 +99,20 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="algorithm.Heap.p787" />
+      <recent name="algorithm.BFS.p787" />
       <recent name="algorithm.BinarySearch.p35" />
       <recent name="algorithm.Array.p75" />
       <recent name="algorithm.Array.p1470.p75" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RandomizedSet">
+  <component name="RunManager" selected="Application.testJava">
     <configuration name="RandomizedSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="algorithm.Design.p380.RandomizedSet" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="algorithm.Design.p380.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RefundSolution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.June2020.Week1.p3.RefundSolution" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="algorithm.June2020.Week1.p3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -167,13 +159,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="testJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testJava" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.testJava" />
         <item itemvalue="Application.RandomizedSet" />
         <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (1)" />
-        <item itemvalue="Application.RefundSolution" />
       </list>
     </recent_temporary>
   </component>
@@ -214,7 +213,9 @@
       <workItem from="1591885496454" duration="2037000" />
       <workItem from="1591942587550" duration="8511000" />
       <workItem from="1591955549445" duration="296000" />
-      <workItem from="1591955855803" duration="9701000" />
+      <workItem from="1591955855803" duration="9821000" />
+      <workItem from="1592036904409" duration="856000" />
+      <workItem from="1592202458433" duration="11976000" />
     </task>
     <task id="LOCAL-00001" summary="create git &amp; upload code">
       <created>1565676835056</created>
@@ -468,7 +469,42 @@
       <option name="project" value="LOCAL" />
       <updated>1591975249619</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="auto update">
+      <created>1591977175117</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1591977175117</updated>
+    </task>
+    <task id="LOCAL-00038" summary="add #368 largest-divisible-subset">
+      <created>1592061959400</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1592061959400</updated>
+    </task>
+    <task id="LOCAL-00039" summary="add #787 cheapest-flights-within-k-stops">
+      <created>1592229339518</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1592229339518</updated>
+    </task>
+    <task id="LOCAL-00040" summary="add TreeNode.java">
+      <created>1592229359860</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1592229359860</updated>
+    </task>
+    <task id="LOCAL-00041" summary="add #700 search-in-a-binary-search-tree">
+      <created>1592229387228</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1592229387228</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -499,10 +535,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add coin-exchange-2" />
-    <MESSAGE value="change dir name from p7 to p6" />
-    <MESSAGE value="add 2020 June Week2 p1" />
-    <MESSAGE value="add p1470" />
     <MESSAGE value="add p1342" />
     <MESSAGE value="add 3 exercises of LinkedList" />
     <MESSAGE value="add 1 June Challenge" />
@@ -524,7 +556,11 @@
     <MESSAGE value="add some configs" />
     <MESSAGE value="add #67 add-binary" />
     <MESSAGE value="auto update" />
-    <option name="LAST_COMMIT_MESSAGE" value="auto update" />
+    <MESSAGE value="add #368 largest-divisible-subset" />
+    <MESSAGE value="add #787 cheapest-flights-within-k-stops" />
+    <MESSAGE value="add TreeNode.java" />
+    <MESSAGE value="add #700 search-in-a-binary-search-tree" />
+    <option name="LAST_COMMIT_MESSAGE" value="add #700 search-in-a-binary-search-tree" />
   </component>
   <component name="WindowStateProjectService">
     <state x="676" y="349" width="751" height="341" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1590326462245">
@@ -535,10 +571,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591187243150" />
-    <state x="548" y="122" key="CommitChangelistDialog2" timestamp="1591975248972">
+    <state x="548" y="122" key="CommitChangelistDialog2" timestamp="1592229386572">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="548" y="122" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1591975248972" />
+    <state x="548" y="122" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1592229386572" />
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1591969559682">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -547,34 +583,34 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="748" y="433" key="GitRewordDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591282039774" />
-    <state width="1860" height="274" key="GridCell.Tab.0.bottom" timestamp="1591947041595">
+    <state width="1877" height="277" key="GridCell.Tab.0.bottom" timestamp="1592229388285">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1860" height="274" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591947041595" />
-    <state width="1860" height="274" key="GridCell.Tab.0.center" timestamp="1591947041595">
+    <state width="1877" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592229388285" />
+    <state width="1877" height="277" key="GridCell.Tab.0.center" timestamp="1592229388285">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1860" height="274" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591947041595" />
-    <state width="1860" height="274" key="GridCell.Tab.0.left" timestamp="1591947041595">
+    <state width="1877" height="277" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592229388285" />
+    <state width="1877" height="277" key="GridCell.Tab.0.left" timestamp="1592229388285">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1860" height="274" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591947041595" />
-    <state width="1860" height="274" key="GridCell.Tab.0.right" timestamp="1591947041595">
+    <state width="1877" height="277" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592229388285" />
+    <state width="1877" height="277" key="GridCell.Tab.0.right" timestamp="1592229388285">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1860" height="274" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591947041595" />
+    <state width="1877" height="277" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592229388285" />
     <state x="760" y="221" key="RollbackChangesDialog" timestamp="1591713272884">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="760" y="221" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591713272884" />
-    <state x="280" y="153" key="SettingsEditor" timestamp="1591977150845">
+    <state x="280" y="153" key="SettingsEditor" timestamp="1592062007496">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="280" y="153" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1591977150845" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1591977136119">
+    <state x="280" y="153" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1592062007496" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1592061989358">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1591977136119" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1592061989358" />
     <state x="823" y="364" key="cloudConfig.SelfSettingsDialog" timestamp="1591631049812">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
